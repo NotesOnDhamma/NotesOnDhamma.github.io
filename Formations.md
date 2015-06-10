@@ -21,7 +21,7 @@
 | -- | -- |
 | the empty contact  (suññata phassa) | Empty of lust, hate, or delusion |
 | the signless contact (animitta phassa) | without any sign of lust, hate, or delusion |
-| the undirected contact (appaṇihita phassa) | |
+| the undirected contact (appaṇihita phassa) |  not directed to lust, hate, or delusion |
 
 
 * [Dutiya Kāma,bhū Sutta - The Second Discourse to Kāma,bhū](http://dharmafarer.org/wordpress/wp-content/uploads/2013/04/48.7-Kamabhu-S-2-s41.6-piya.pdf) translated by Piya Tan, 2008
