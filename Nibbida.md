@@ -1,1 +1,1 @@
-# Nibbida Formula
+# Nibbida
