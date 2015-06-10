@@ -15,13 +15,13 @@
 | Entering cessation | 1 >-> | 2 >-> | 3 >-> |
 | Emerging from cessation | <-< 3 | <-< 2 | <-< 1 |
 
-## Contacts when Emerging from Cessation
+## Contacts with Cessation
 
-| 3 kinds of contacts |
-| -- |
-| the empty contact  (suññata phassa) |
-| the signless contact (animitta phassa) |
-| the undirected contact (appaṇihita phassa) |
+| 3 Kinds of Contacts with Cessation | Desciption | 
+| -- | -- |
+| the empty contact  (suññata phassa) | Empty of lust, hate, or delusion |
+| the signless contact (animitta phassa) | without any sign of lust, hate, or delusion |
+| the undirected contact (appaṇihita phassa) | |
 
 
 * [Dutiya Kāma,bhū Sutta - The Second Discourse to Kāma,bhū](http://dharmafarer.org/wordpress/wp-content/uploads/2013/04/48.7-Kamabhu-S-2-s41.6-piya.pdf) translated by Piya Tan, 2008
