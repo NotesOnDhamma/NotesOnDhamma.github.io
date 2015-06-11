@@ -1,4 +1,6 @@
-# Conditioning Sequence in Perceptual Process
+# Cognition 
+
+## Conditioning Sequence in Perceptual Process
 
 Faculty + Faculty Object + Faculty Conciousness -> Contact -> Feeling / Sensation -> Perceiving part of the mind processes it -> Volitional response to it -> mind consciousness takes the fully labelled object
 
