@@ -4,4 +4,7 @@
 | -- | -- |
 | Upanisā Sutta | suffering (dukkha) | faith (saddhā) | joy [gladness] (pāmojja) | zest (pīti) | tranquillity (passaddhi) | happiness (sukha) | concentration (samādhi) | the knowledge and vision of reality (yathā,bhūta,ñāna,dassana) | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) |
 |  Das’uttara Sutta || through wise consideration (yoniso,manasikaroto) | joy [gladness] (pāmojja) | zest (pīti) | tranquillity (passaddhi) | happiness (sukha) | concentration (samādhi) | the knowledge and vision of reality (yathā,bhūta,ñāna,dassana) | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) |
-|  Das’uttara Sutta || through wise consideration (yoniso,manasikaroto) | joy [gladness] (pāmojja) | zest (pīti) | tranquillity (passaddhi) | happiness (sukha) | concentration (samādhi) | the knowledge and vision of reality (yathā,bhūta,ñāna,dassana) | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) |
+| Das’uttara Sutta || through wise consideration (yoniso,manasikaroto) | joy [gladness] (pāmojja) | zest (pīti) | tranquillity (passaddhi) | happiness (sukha) | concentration (samādhi) | the knowledge and vision of reality (yathā,bhūta,ñāna,dassana) | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) |
+| Cetanā Akaraṇīyā Sutta | moral virtue (sīla) |  non-remorse (avippaṭisāra) (freedom from sense of guilt) | joy [gladness] (pāmojja) | zest (pīti) | tranquillity (passaddhi) | happiness (sukha) | concentration (samādhi) | the knowledge and vision of reality (yathā,bhūta,ñāna,dassana) | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) |
+
+
