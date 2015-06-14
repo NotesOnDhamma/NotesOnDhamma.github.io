@@ -20,4 +20,6 @@
 | Cha Chakka Sutta | 6 internal senses, 6 external senses, respective consciousnesses, respective contacts, respective feelings,  respective cravings || the faculty, the faculty-object, faculty-consciousness, faculty-contact, feeling, craving, are not-self | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) | knowledge of liberation (vimutti,ñāṇa,dassana
 | Samugghāta Sāruppa Sutta | 6 internal senses, 6 external senses, respective consciousnesses, respective contacts, respective feelings || non-conceiving - not conceive "it" (the faculty, object, consciousness, contact, 3 feelings), as "in it", as "from it", "It is mine" | revulsion [disenchantment] (nibbidā) | dispassion (virāga) | liberation (vimutti) | knowledge of liberation (vimutti,ñāṇa,dassana) |
 
+References:
+
 * [Nibbidā](http://dharmafarer.org/wordpress/wp-content/uploads/2009/12/20.1-Nibbida-piya.pdf) by Piya Tan, 2005
