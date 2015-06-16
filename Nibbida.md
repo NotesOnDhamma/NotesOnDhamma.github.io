@@ -8,7 +8,8 @@
 |  Das’uttara Sutta || through wise consideration (yoniso,manasikaroto) |||| joy [gladness] (pāmojja) | zest (pīti) | tranquillity (passaddhi) | happiness (sukha) | concentration (samādhi) | the knowledge and vision of reality (yathā,bhūta,ñāna,dassana) | revulsion [disenchantment] (nibbidā) | dispassion (virāga) |||| liberation (vimutti) ||
 | Potthapāda Sutta | Goal | Dhamma | Holy life | Holy life |||||||| revulsion (nibbidāya) | dispassion (virāgāya) | cessation (of suffering) (nirodhāya) | inner peace (upasamāya) | direct knowledge (abhiññāya) | awakening (sambodhāya) |  nirvana (nibbānāya samvattati) |
 |  Cetanā Akaraṇīyā Suttas |||| moral virtue (sīla, vata) | non-remorse (avippaṭisāra) (freedom from sense of guilt) | joy [gladness] (pāmojja) | zest (pīti) | Bodily calm (passaddha,kāya) | happiness (sukha) | concentration (samādhi) | see true reality (yathām,bhūta) | revulsion [disenchantment] ||||| liberation (vimutti) | the knowledge and vision of liberation (vimutti,ñāṇa,dassana) |
-|  Vimuttayatana Sutta ||||| Listing to the Dhamma | joy [gladness] (pāmojja) | zest (pīti) | Bodily calm (passaddha,kāya) | happiness (sukha) | concentration (samādhi) | see true reality (yathām,bhūta) | revulsion [disenchantment] ||||| liberation (vimutti) | the knowledge and vision of liberation (vimutti,ñāṇa,dassana) |
+|  Vimuttayatana Sutta ||||| Listing to, teaching, reciting the Dhamma; carefully considers, initiates his application, sustains his application, to the
+Dharma; properly grasps some concentration-sign | joy [gladness] (pāmojja) | zest (pīti) | Bodily calm (passaddha,kāya) | happiness (sukha) | concentration (samādhi) | see true reality (yathām,bhūta) | revulsion [disenchantment] ||||| liberation (vimutti) | the knowledge and vision of liberation (vimutti,ñāṇa,dassana) |
 
 
 ## Short Form: Starting from the Aggregates, Faculties, Feelings from Contact
