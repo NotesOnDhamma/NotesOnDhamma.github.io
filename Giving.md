@@ -4,3 +4,4 @@
 | -- | -- |
 | For the sake of rebirth | I'll enjoy this after death |
 | On accounts of ethics | Giving is good |
+| Sake of tradition | It would not be right for me to let this old family custom die! |
