@@ -10,4 +10,4 @@
 | For the sake off metal calm | When this gift of mine is given, it calms my mind. Satisfaction and joy arise | Born in the company of the Para,nimmita,vasavattī devas [who lord over the creations of others], but return to the world |
 | The best way to give | This is an adornment for the mind, a support for the mind| Born in the company of Brahma’s Retinue, and exhausting this Kamma becomes a non returner |
 
-* Dana Maha-p,phala Sutta - The Discourse on Giving That is of Great Fruit, translated by Piya Tan, 2003
+* [Dana Maha-p,phala Sutta - The Discourse on Giving That is of Great Fruit](http://dharmafarer.org/wordpress/wp-content/uploads/2009/12/2.3_Dana_Mahapphala_S_a7.49_piya_bk.pdf), translated by Piya Tan, 2003
