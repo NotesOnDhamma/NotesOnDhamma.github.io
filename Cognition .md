@@ -9,3 +9,5 @@
 
 (1) visual consciousness (cakkhu,vinnana) -> (2)  sensory impression or sense-contact (cakkhu,samphassa or phassa),  conjunction of the sense-organ, the sense-object and sense-consciousness (tinnam
 sangati phasso) -> (3) feeling (vedanā): hedonic tone or emotional value -> (4) Perception / apperception (sannā) -> (5)  thinking (vitakka) -> (6) mental proliferation (papanca) 
+
+* [Madhu,piṇḍika Sutta - The Discourse on the Honey-ball](http://dharmafarer.org/wordpress/wp-content/uploads/2009/12/6.14-Madhupindika-S-m18-piya.pdf)
