@@ -1,1 +1,0 @@
-# 7 Factors of Enlightenment
