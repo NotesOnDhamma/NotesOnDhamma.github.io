@@ -1,1 +1,0 @@
-# Analysis of the 6 Faculties
