@@ -1,5 +1,4 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. link:Content.adoc[Content]
-. link:"3 Marks of Existence.adoc"[3 Marks of Existence]
+. link:3-Marks-of-Existence.adoc[3 Marks of Existence]
