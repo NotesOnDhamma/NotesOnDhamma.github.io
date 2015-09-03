@@ -2,4 +2,4 @@
 
 . link:README.adoc[Introduction]
 . link:3-Marks-of-Existence.adoc[3 Marks of Existence]
-. ling:Giving.adoc[Motivation for Giving]
+. link:Giving.adoc[Motivation for Giving]
