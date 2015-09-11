@@ -4,3 +4,6 @@ Much of modern Buddhist practices seam to have diverted from the teaching in the
 The reconciliation will be done by scrutinizing the practice along with any basis for it in the Tripitaka.
 
 Also in light of the teachings in the Tripitaka, an attempt will me made to see if this is the original reaching.
+
+
+image:https://badges.gitter.im/Join%20Chat.svg[link="https://gitter.im/NotesOnDhamma/NotesOnDhamma.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
